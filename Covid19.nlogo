@@ -468,7 +468,7 @@ MONITOR
 515
 77
 560
-deads
+deaths
 number-dead
 17
 1
